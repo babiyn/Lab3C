@@ -1,0 +1,10 @@
+﻿  FileName.c
+C:\Users\User\source\repos\NazarBabiyPR3\NazarBabiyPR3\FileName.c(12,10): warning C4477: 'scanf_s' : format string '%c' requires an argument of type 'char *', but variadic argument 1 has type 'int *'
+C:\Users\User\source\repos\NazarBabiyPR3\NazarBabiyPR3\FileName.c(12,10): message : this argument is used by a conversion specifier
+C:\Users\User\source\repos\NazarBabiyPR3\NazarBabiyPR3\FileName.c(18,10): warning C4477: 'scanf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int *'
+C:\Users\User\source\repos\NazarBabiyPR3\NazarBabiyPR3\FileName.c(18,10): message : this argument is used by a conversion specifier
+C:\Users\User\source\repos\NazarBabiyPR3\NazarBabiyPR3\FileName.c(19,9): warning C4477: 'printf' : format string '%2s' requires an argument of type 'char *', but variadic argument 1 has type 'int *'
+C:\Users\User\source\repos\NazarBabiyPR3\NazarBabiyPR3\FileName.c(7,12): warning C4101: 'z': unreferenced local variable
+C:\Users\User\source\repos\NazarBabiyPR3\NazarBabiyPR3\FileName.c(7,9): warning C4101: 'y': unreferenced local variable
+C:\Users\User\source\repos\NazarBabiyPR3\NazarBabiyPR3\FileName.c(7,6): warning C4101: 'x': unreferenced local variable
+  NazarBabiyPR3.vcxproj -> C:\Users\User\source\repos\NazarBabiyPR3\x64\Debug\NazarBabiyPR3.exe
